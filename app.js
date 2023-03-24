@@ -2,7 +2,7 @@ const express = require("express");
 const mailchimp = require("@mailchimp/mailchimp_marketing");
 // Mailchimp Configuration
 mailchimp.setConfig({
-    apiKey: "b0855420495dd871c42b03268ec0b312-us21",
+    apiKey: "cfb36b793e7be4786642752f034d6fe2-us21",
     server: "us21"
 })
 // Installing Plugins to Express.js
